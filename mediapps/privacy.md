@@ -1,4 +1,4 @@
-POLÍTICA DE PRIVACIDAD “MediApps”
+<h1>POLÍTICA DE PRIVACIDAD “App Urgencias Psiquiátricas”</h1>
 
 El presente Aviso Legal regula las condiciones generales de acceso y utilización del sitio web (en adelante, sitio web) y de las aplicaciones móviles desarrolladas por MediApps disponibles en Play Store y App Gallery (en adelante, apps), que MediApps pone a disposición de los usuarios de Internet y las distintas plataformas móviles.
 
@@ -22,7 +22,7 @@ Los mensajes recibidos puede que los revise un servicio de detección automátic
 Nunca utilizaremos sus datos personales para cederlos a terceros.
 
 
-2. Contenido de la web y las apps
+<h1>2. Contenido de la web y las apps</h1>
 
 El idioma utilizado por MediApps en la web y apps será el español. El Equipo de MediApps no se responsabiliza de la no comprensión o entendimiento del idioma del sitio web y apps por el usuario, ni de sus consecuencias.
 
@@ -30,21 +30,21 @@ MediApps podrá modificar los contenidos sin previo aviso, así como suprimir y 
 
 Con respecto al contenido de la app “Urgencias psiquiátricas” la información proporcionada que hace referencia al diagnóstico y manejo de las diferentes urgencias tratadas representan solo una sugerencia, realizada a partir de una revisión de bibliografía actualizada de diversos artículos científicos. En ningún caso reemplaza el criterio médico. 
 
-3. Enlace a otros sitios
+<h1>3. Enlace a otros sitios</h1>
 
 Nuestro sitio web y apps pueden contener enlaces a otros sitios que no son operados por nosotros. Si hace clic en el enlace de un tercero, será dirigido al sitio de ese tercero. Le recomendamos que revise la Política de Privacidad de cada sitio que visite.
 
 No tenemos control ni asumimos responsabilidad alguna por el contenido, las políticas de privacidad o las prácticas de los sitios o servicios de terceros.
 
-4. Política respecto a los niños
+<h1>4. Política respecto a los niños</h1>
 
 Nuestro sitio web y apps no han sido diseñadas ni están dirigidas para personas menores de 18 años. En caso que se descubra que un menor de 18 años nos envía un mensaje, la información será eliminada inmediatamente de nuestros servidor. Si usted es padre o tutor y sabe que su hijo nos proporcionó información personal, comuníquese con nuestro Equipo, a través de nuestro correo contacto@mediapps.cl para realizar las acciones necesarias.
 
-5. Cambios de ésta Política de Privacidad
+<h1>5. Cambios de ésta Política de Privacidad</h1>
 
 Revisamos periódicamente nuestra Política de Privacidad. La versión más reciente de la Política regulará el acceso y utilización del sitio web y apps. En caso de modificar dicha Política en algún punto que nuestro Equipo considere relevante, se lo notificaremos a través del o los medios que consideremos pertinentes.
 
-6. Contáctenos
+<h1>6. Contáctenos</h1>
 Si tiene preguntas o comentarios respecto de esta Política de Privacidad, póngase en contacto con nosotros a través de contacto@mediapps.cl.
 
 Con efecto en la fecha: 30 de octubre de 2018.
