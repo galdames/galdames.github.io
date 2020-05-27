@@ -4,7 +4,7 @@ El presente Aviso Legal regula las condiciones generales de acceso y utilizació
 
 La utilización del sitio web y las apps implica la aceptación plena y sin reservas de todas y cada una de las disposiciones incluidas en este Aviso Legal. 
 
-Acceso y utilización de la web y las apps
+<h2>Acceso y utilización de la web y las apps</h2>
 
 1.1 Del acceso:
 El acceso al sitio web es gratuito. Sin embargo, el acceso a las apps se libera en su versión completa luego, de un único pago realizado a través de App Store o Play Store, cuyo precio puede modificarse, sin previo aviso, según lo determine el Equipo de MediApps. No se exige suscripción ni registro de usuarios para el acceso y utilización tanto para el sitio web y ni para las apps. 
@@ -22,7 +22,7 @@ Los mensajes recibidos puede que los revise un servicio de detección automátic
 Nunca utilizaremos sus datos personales para cederlos a terceros.
 
 
-<h1>2. Contenido de la web y las apps</h1>
+<h2>2. Contenido de la web y las apps</h2>
 
 El idioma utilizado por MediApps en la web y apps será el español. El Equipo de MediApps no se responsabiliza de la no comprensión o entendimiento del idioma del sitio web y apps por el usuario, ni de sus consecuencias.
 
@@ -30,21 +30,21 @@ MediApps podrá modificar los contenidos sin previo aviso, así como suprimir y 
 
 Con respecto al contenido de la app “Urgencias psiquiátricas” la información proporcionada que hace referencia al diagnóstico y manejo de las diferentes urgencias tratadas representan solo una sugerencia, realizada a partir de una revisión de bibliografía actualizada de diversos artículos científicos. En ningún caso reemplaza el criterio médico. 
 
-<h1>3. Enlace a otros sitios</h1>
+<h2>3. Enlace a otros sitios</h2>
 
 Nuestro sitio web y apps pueden contener enlaces a otros sitios que no son operados por nosotros. Si hace clic en el enlace de un tercero, será dirigido al sitio de ese tercero. Le recomendamos que revise la Política de Privacidad de cada sitio que visite.
 
 No tenemos control ni asumimos responsabilidad alguna por el contenido, las políticas de privacidad o las prácticas de los sitios o servicios de terceros.
 
-<h1>4. Política respecto a los niños</h1>
+<h2>4. Política respecto a los niños</h2>
 
 Nuestro sitio web y apps no han sido diseñadas ni están dirigidas para personas menores de 18 años. En caso que se descubra que un menor de 18 años nos envía un mensaje, la información será eliminada inmediatamente de nuestros servidor. Si usted es padre o tutor y sabe que su hijo nos proporcionó información personal, comuníquese con nuestro Equipo, a través de nuestro correo contacto@mediapps.cl para realizar las acciones necesarias.
 
-<h1>5. Cambios de ésta Política de Privacidad</h1>
+<h2>5. Cambios de ésta Política de Privacidad</h2>
 
 Revisamos periódicamente nuestra Política de Privacidad. La versión más reciente de la Política regulará el acceso y utilización del sitio web y apps. En caso de modificar dicha Política en algún punto que nuestro Equipo considere relevante, se lo notificaremos a través del o los medios que consideremos pertinentes.
 
-<h1>6. Contáctenos</h1>
+<h2>6. Contáctenos</h2>
 Si tiene preguntas o comentarios respecto de esta Política de Privacidad, póngase en contacto con nosotros a través de contacto@mediapps.cl.
 
 Con efecto en la fecha: 30 de octubre de 2018.
